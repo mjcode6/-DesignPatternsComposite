@@ -1,0 +1,15 @@
+C:\Users\mjsiv\Desktop\compsite\bin\Debug\net7.0\compsite.exe
+C:\Users\mjsiv\Desktop\compsite\bin\Debug\net7.0\compsite.deps.json
+C:\Users\mjsiv\Desktop\compsite\bin\Debug\net7.0\compsite.runtimeconfig.json
+C:\Users\mjsiv\Desktop\compsite\bin\Debug\net7.0\compsite.dll
+C:\Users\mjsiv\Desktop\compsite\bin\Debug\net7.0\compsite.pdb
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.csproj.AssemblyReference.cache
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.AssemblyInfoInputs.cache
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.AssemblyInfo.cs
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.csproj.CoreCompileInputs.cache
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.dll
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\refint\compsite.dll
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.pdb
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\compsite.genruntimeconfig.cache
+C:\Users\mjsiv\Desktop\compsite\obj\Debug\net7.0\ref\compsite.dll
